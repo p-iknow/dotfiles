@@ -142,9 +142,6 @@ export PATH="$ANDROID_SDK_ROOT/emulator:$PATH"
 export PATH="$ANDROID_SDK_ROOT/tools/bin:$PATH"
 export PATH="$ANDROID_SDK_ROOT/platform-tools:$PATH"
 
-## android를 위한 토큰 세팅
-export GITHUB_PACKAGES_USERNAME="p-iknow"
-export GITHUB_PACKAGES_ACCESS_TOKEN="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"
 
 ## chromium setting
 export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
